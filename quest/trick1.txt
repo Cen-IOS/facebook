@@ -1,0 +1,12 @@
+Thủ thuật để bắt Pokémon Team Rocket khi bạn đang trong thời gian Cooldowns:
+- Chuyển đến pokestop khi có cột đen xì .
+- Ghi nhớ vị trí ban đầu của bạn nơi mà bạn bắt con 100% chẳng hạn.
+- Kết thúc trận chiến .
+- Tại màn hình bắt fly về chỗ con mà bạn bắt iv 100% ở bên trên và bắt con mắt đen xì đó .
+- Khi bạn ở vị trí ban đầu một lần nữa, bạn có thể bắt được nó ngay cả khi bạn đang ở trong thời gian Cooldowns / softban.
+
+P/s: 
+- Điều này chỉ hoạt động với Shadow Pokémon, không phải những con pokemon hoắc gym nha !
+- Bắt Pokémon đó vẫn sẽ tính thời gian Cooldowns của bạn bình thường (Tức là nó sẽ tính Cooldowns của bạn từ thời gian bạn bắt pokemon mắt đen đó nhé =]] )😌
+```Copy xin hãy ghi nguồn nhé !!!```
+© Bản Quyền Thuộc Về Gotcha Mod !
